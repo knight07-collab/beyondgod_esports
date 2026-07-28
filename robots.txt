@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beyondgod-esports.vercel.app/sitemap.xml
